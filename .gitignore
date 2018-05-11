@@ -3,3 +3,19 @@
 xcode_project/*
 vstudio2010/*
 src/example/CMakeLists.txt.rej
+
+build/
+bin/
+
+# eclipse
+.cproject
+.project
+.settings/
+
+# cmake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+*.a
